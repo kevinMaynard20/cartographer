@@ -12,13 +12,19 @@ Enhanced codebase mapping plugin for Claude Code that generates comprehensive do
 
 ## Installation
 
-### Via Marketplace (recommended)
+### Step 1: Add the marketplace
 
 ```
-/plugin marketplace add kevinmaynard20/cartographer
+/plugin marketplace add kevinmaynard20
 ```
 
-### From Local Path
+### Step 2: Install the plugin
+
+```
+/plugin install cartographer@kevinmaynard20
+```
+
+### Alternative: From Local Path
 
 ```
 /plugin install /path/to/cartographer
