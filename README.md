@@ -12,21 +12,16 @@ Enhanced codebase mapping plugin for Claude Code that generates comprehensive do
 
 ## Installation
 
-### Via /plugin command (recommended)
+### Via Marketplace (recommended)
 
 ```
-# Install from GitHub
-/plugin install https://github.com/kevinMaynard20/cartographer.git
+/plugin marketplace add kevinmaynard20/cartographer
+```
 
-# Or install from local path
+### From Local Path
+
+```
 /plugin install /path/to/cartographer
-```
-
-### Manual Installation
-
-```bash
-# Clone the repository to your plugins directory
-git clone https://github.com/kevinMaynard20/cartographer.git
 ```
 
 ## Usage
@@ -66,4 +61,4 @@ MIT License
 
 ## Author
 
-kevinMaynard20
+kevinmaynard20
