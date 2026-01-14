@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cartographer",
+  "description": "Map and document codebase architecture with dependency graphs, security scanning, and TODO indexing",
+  "owner": {
+    "name": "Kevin Maynard",
+    "email": "kevinmaynard20@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "cartographer",
+      "description": "Map and document codebase architecture with dependency graphs, security scanning, and TODO indexing",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kevin Maynard",
+        "email": "kevinmaynard20@users.noreply.github.com"
+      },
+      "source": "./plugins/cartographer",
+      "category": "development",
+      "homepage": "https://github.com/kevinmaynard20/cartographer"
+    }
+  ]
+}
