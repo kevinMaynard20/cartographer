@@ -1,0 +1,9 @@
+{
+  "name": "cartographer",
+  "version": "1.0.0",
+  "description": "Map and document codebase architecture with dependency graphs, security scanning, and TODO indexing",
+  "author": "kmaynardrpp",
+  "commands": ["cartographer"],
+  "skills": ["cartographer"],
+  "triggers": ["map this codebase", "analyze architecture", "document codebase", "/cartographer", "create codebase map"]
+}
