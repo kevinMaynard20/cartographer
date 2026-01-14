@@ -12,12 +12,21 @@ Enhanced codebase mapping plugin for Claude Code that generates comprehensive do
 
 ## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/kmaynardrpp/cartographer.git
+### Via /plugin command (recommended)
 
-# Or install via Claude Code
-/plugin install cartographer@kmaynardrpp
+```
+# Install from GitHub
+/plugin install https://github.com/kevinMaynard20/cartographer.git
+
+# Or install from local path
+/plugin install /path/to/cartographer
+```
+
+### Manual Installation
+
+```bash
+# Clone the repository to your plugins directory
+git clone https://github.com/kevinMaynard20/cartographer.git
 ```
 
 ## Usage
@@ -53,8 +62,8 @@ pip install tiktoken
 
 ## License
 
-MIT License - See LICENSE for details.
+MIT License
 
 ## Author
 
-kmaynardrpp
+kevinMaynard20
